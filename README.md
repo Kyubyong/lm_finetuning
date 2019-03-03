@@ -5,7 +5,7 @@ Hopefully I'll be able to make a machine write a novel someday instead of me. So
 Luckily and thankfully we don't have to train a language model from scratch. Many great pretrained models are available.
 What we need to do is fine-tune it for our task.
 I want to see what will happen if we fine-tune a language model to Moby Dick--one of the greatest novels of all time--and continue to generate text.
-Does it look as if it belongs to the novel? Needless to say, as of 2019, long long term memory in deep learning is an open question.
+Does it look as if it belongs to the novel? I don't think so.
 But, anyway I decided to run a small experiment.
 
 
