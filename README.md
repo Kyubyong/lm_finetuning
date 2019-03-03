@@ -26,7 +26,7 @@ But, anyway I decided to run a small experiment.
 python prepare_data.py
 ```
 
-* STEP 2. Finetune the new-forward pretrained lm with Moby Dick text during 100 epochs. At every epoch, we save generated text.
+* STEP 2. Finetune the news-forward pretrained lm with Moby Dick text during 100 epochs. At every epoch, we save generated text.
 ```
 python finetune.py
 ```
