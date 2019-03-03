@@ -8,7 +8,7 @@ What we need to do is fine-tune them for our tasks.
 
 I want to see what will happen if we fine-tune a pretrained language model to a novel and subsequently generate text based on the last part of the novel. The glory (?!) goes to Moby Dick, one of the greatest novels of all time. Why the long and difficult whale story? Well, at least its text is in the public domain:)
 
-Don't be too serious. This is easy to do. And enjoy the outputs.
+Don't be too serious. Just enjoy.
 
 ## Requirements
 * python 3.6+
