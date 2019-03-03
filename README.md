@@ -4,11 +4,11 @@ I have a dream; I'd like to write a novel. Unfortunately, I don't think I can. B
 
 Language modeling is on the center of this dream.
 Luckily and thankfully we don't have to train a language model from scratch. Many great pretrained models are available.
-What we need to do is fine-tune it for our tasks.
+What we need to do is fine-tune them for our tasks.
 
-I want to see what will happen if we fine-tune a pretrained language model to a novel and generate text based on the last part of the novel. The glory goes to Moby Dick, one of the greatest novels of all time. Its text is in the public domain.
+I want to see what will happen if we fine-tune a pretrained language model to a novel and subsequently generate text based on the last part of the novel. The glory (?!) goes to Moby Dick, one of the greatest novels of all time. Why the long and difficult whale story? Well, at least its text is in the public domain:)
 
-The output may not look so wonderful, but I enjoyed a lot.
+Don't be too serious. This is easy to do. And enjoy the outputs.
 
 ## Requirements
 * python 3.6+
